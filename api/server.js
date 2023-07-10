@@ -16,7 +16,6 @@ server.put('/users/:id', (req, res) => {
  
     res.send(user);
   });
-  
   // Custom DELETE route for deleting a user
   server.delete('/users?:id', (req, res) => {
     const userId = parseInt(req.params.id);
