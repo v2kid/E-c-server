@@ -153,10 +153,10 @@
   ],
   "cart": [
     {
-      "name": "Nike Pegasus Turbo",
-      "description": "Let this esteemed stallion help you log the hard miles. Complete with lighter, responsive, repurposed foam and a feather upper, this motley-coloured mare is made to help you",
+      "name": "Nike Air Max 97",
+      "description": "Featuring the original ripple design inspired by Japanese bullet trains, the Nike Air Max 97 lets you push your style full-speed ahead.Taking the revolutionary full-length Nike Air unit that shook up the running world and adding fresh colours and crisp details, it lets you ride in first-class comfort.",
       "brand": "nike",
-      "price": "4409000",
+      "price": "44444444",
       "color": [
         "blue",
         "red"
@@ -166,15 +166,15 @@
         "42"
       ],
       "gender": "",
-      "material": "Sustainable Materials",
+      "material": "cloth",
       "style": "Shoes",
       "isAvailable": true,
       "imageUrl": [
-        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e1cc06a7-c0c9-41b9-9512-a067a734e3f7/pegasus-turbo-road-running-shoes-MSSVMK.png",
-        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3aeda8ba-56f9-498c-aa94-83c70eecef99/pegasus-turbo-road-running-shoes-MSSVMK.png",
-        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5b20f21-1744-4496-a4a4-b20fc670ded0/pegasus-turbo-road-running-shoes-MSSVMK.png"
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4cd2077b-ea71-4453-a4c1-4de6017b9592/air-max-97-shoes-EBZrb8.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/55fef593-8127-4623-874d-acf51c2ed2c8/air-max-97-shoes-EBZrb8.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5104e0d9-6191-4f29-bb75-c680a25dc983/air-max-97-shoes-EBZrb8.png"
       ],
-      "id": 7931
+      "id": 6026
     }
   ]
 }
